@@ -2,8 +2,6 @@ import { NextRequest, NextResponse } from "next/server";
 import { ChatOpenAI } from "@langchain/openai";
 import { PromptTemplate } from "@langchain/core/prompts";
 import OpenAI from "openai";
-import { promises as fs } from "fs";
-import path from "path";
 
 // Load your OpenAI API key from environment variables
 const openAIApiKey = process.env.OPEN_AI_KEY;
@@ -47,14 +45,14 @@ export async function POST(req: NextRequest) {
       return await res.json();
     }
 
-    async function loadJsonFile(filename: string) {
-      console.log(process.cwd());
-      const file = await fs.readFile(
-        path.join(process.cwd(), "app", filename),
-        "utf8"
-      );
-      return await JSON.parse(file);
-    }
+    // async function loadJsonFile(filename: string) {
+    //   console.log(process.cwd());
+    //   const file = await fs.readFile(
+    //     path.join(process.cwd(), "app", filename),
+    //     "utf8"
+    //   );
+    //   return await JSON.parse(file);
+    // }
 
     // --- Synonym dictionaries ---
     const speciesSynonyms = [
@@ -264,13 +262,13 @@ export async function POST(req: NextRequest) {
     // const dataWithEmbeddings: ScoredTreeSpecies[] = JSON.parse(
     //   dataWithEmbeddingsRaw
     // );
-    const dataWithEmbedding2s: ScoredTreeSpecies[] = await fetchPublicJson(
+    const dataWithEmbeddings: ScoredTreeSpecies[] = await fetchPublicJson(
       "data_with_embeddings.json"
     );
-    console.log(dataWithEmbedding2s);
-    const dataWithEmbeddings: ScoredTreeSpecies[] = await loadJsonFile(
-      "data_with_embeddings.json"
-    );
+    // console.log(dataWithEmbedding2s);
+    // const dataWithEmbeddings: ScoredTreeSpecies[] = await loadJsonFile(
+    //   "data_with_embeddings.json"
+    // );
 
     // --- Cosine similarity function ---
     function cosineSimilarity(a: number[], b: number[]) {
