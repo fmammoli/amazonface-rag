@@ -4,6 +4,7 @@ import { PromptTemplate } from "@langchain/core/prompts";
 import OpenAI from "openai";
 import { promises as fs } from "fs";
 import path from "path";
+
 // Load your OpenAI API key from environment variables
 const openAIApiKey = process.env.OPEN_AI_KEY;
 
@@ -39,19 +40,17 @@ export async function POST(req: NextRequest) {
     }
 
     // --- Load data.json and data_with_embeddings.json via HTTP fetch for Vercel compatibility ---
-    // async function fetchPublicJson(filename: string) {
-    //   const baseUrl = process.env.VERCEL_URL
-    //     ? `https://${process.env.VERCEL_URL}`
-    //     : process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000";
-    //   const res = await fetch(`${baseUrl}/` + filename);
-    //   if (!res.ok) throw new Error(`Failed to fetch ${filename}`);
-    //   return await res.json();
-    // }
+    async function fetchPublicJson(filename: string) {
+      const baseUrl = "https://amazonface-rag.vercel.app";
+      const res = await fetch(`${baseUrl}/data/` + filename);
+      if (!res.ok) throw new Error(`Failed to fetch ${filename}`);
+      return await res.json();
+    }
 
     async function loadJsonFile(filename: string) {
       console.log(process.cwd());
       const file = await fs.readFile(
-        path.join(process.cwd(), "app", "api", "ask", filename),
+        path.join(process.cwd(), "app", filename),
         "utf8"
       );
       return await JSON.parse(file);
@@ -265,6 +264,10 @@ export async function POST(req: NextRequest) {
     // const dataWithEmbeddings: ScoredTreeSpecies[] = JSON.parse(
     //   dataWithEmbeddingsRaw
     // );
+    const dataWithEmbedding2s: ScoredTreeSpecies[] = await fetchPublicJson(
+      "data_with_embeddings.json"
+    );
+    console.log(dataWithEmbedding2s);
     const dataWithEmbeddings: ScoredTreeSpecies[] = await loadJsonFile(
       "data_with_embeddings.json"
     );
