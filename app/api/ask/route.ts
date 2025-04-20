@@ -3,6 +3,7 @@ import { ChatOpenAI } from "@langchain/openai";
 import { PromptTemplate } from "@langchain/core/prompts";
 import OpenAI from "openai";
 import { promises as fs } from "fs";
+import path from "path";
 // Load your OpenAI API key from environment variables
 const openAIApiKey = process.env.OPEN_AI_KEY;
 
@@ -50,7 +51,7 @@ export async function POST(req: NextRequest) {
     async function loadJsonFile(filename: string) {
       console.log(process.cwd());
       const file = await fs.readFile(
-        process.cwd() + "/app/api/ask/" + filename,
+        path.join(process.cwd(), "app", "api", "ask", filename),
         "utf8"
       );
       return await JSON.parse(file);
