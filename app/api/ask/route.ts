@@ -4,8 +4,8 @@ import { PromptTemplate } from "@langchain/core/prompts";
 import OpenAI from "openai";
 
 // Load your OpenAI API key from environment variables
-const openAIApiKey = process.env.OPENA_AI_KEY;
-console.log("OpenAI API Key:", openAIApiKey);
+const openAIApiKey = process.env.OPEN_AI_KEY;
+
 // Define the type for a tree species entry
 interface TreeSpecies {
   Species: string;
