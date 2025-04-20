@@ -1,0 +1,4765 @@
+[
+  {
+    "Species": "Abuta grandifolia",
+    "Family": "Menispermaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "leaves",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "SLA",
+      " LA",
+      " LDMC",
+      " LNC",
+      " LPC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE*",
+      " DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Ambelania acida",
+    "Family": "Apocynaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LNC",
+      " LPC",
+      " SLA",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Ampelocera edentula",
+    "Family": "Apocynaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "BARK THICKNESS",
+      " DBH",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Amphirrhox longifolia",
+    "Family": "Violaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "BARK THICKNESS",
+      " DBH",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Anacardium spruceanum",
+    "Family": "Anacardiaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "BARK THICKNESS",
+      " DBH",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Andira micrantha",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Andira parviflora",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGHT",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Aniba canelilla",
+    "Family": "Lauraceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark",
+      "branches",
+      "leaves"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LDMC",
+      " LNC",
+      " LPC",
+      " BWD",
+      " DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Annona ambotay",
+    "Family": "Annonaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Aspidosperma desmanthum",
+    "Family": "Apocynaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "leaves"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LA",
+      " LNC",
+      " LPC",
+      " BWD",
+      " DBH",
+      " HEIGHT",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Aspidosperma excelsum",
+    "Family": "Apocynaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "bark",
+      "leaves"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LA",
+      " LNC",
+      " LPC",
+      " BWD",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Aspidosperma rigidum",
+    "Family": "Apocynaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Astronium lecointei",
+    "Family": "Anacardiaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGHT",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Botryarrhena pendula",
+    "Family": "Rubiaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruits"
+    ],
+    "RelatedFunctionalTraits": [
+      "LNC",
+      " LPC",
+      " LDMC",
+      " LA",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Brosimum guianense",
+    "Family": "Maoraceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruits"
+    ],
+    "RelatedFunctionalTraits": [
+      "LNC",
+      " LPC",
+      " LDMC",
+      " LA",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Buchenavia grandis",
+    "Family": "Combretaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruits"
+    ],
+    "RelatedFunctionalTraits": [
+      "LNC",
+      " LPC",
+      " LDMC",
+      " LA",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Caryocar pallidum",
+    "Family": "Caryocaraceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "seed",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LNC",
+      " LPC",
+      "SEED MASS",
+      " SEED SIZE",
+      " SEED SHAPE",
+      " FRUIT SIZE",
+      " FRUIT MASS",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Casearia javitensis",
+    "Family": "Salicaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "leaves"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LNC",
+      " LPC",
+      " LA",
+      " DBH",
+      " BWD",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Casearia sylvestris",
+    "Family": "Salicaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "leaves",
+      "fruits",
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "SLA",
+      " LA",
+      " LNC",
+      " LPC",
+      " DBH",
+      " BWD",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " FRUIT MASS",
+      " SSD HEIGH"
+    ]
+  },
+  {
+    "Species": "Cedrelinga cateniformis",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Cheiloclinium cognatum",
+    "Family": "Celastraceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "root"
+    ],
+    "RelatedFunctionalTraits": [
+      "SRL"
+    ]
+  },
+  {
+    "Species": "Chrysophyllum argenteum",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruits"
+    ],
+    "RelatedFunctionalTraits": [
+      "LNC",
+      " LPC",
+      " LDMC",
+      " LA",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Chrysophyllum manaosense",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Chrysophyllum sparsiflorum",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Conceveiba guianensis",
+    "Family": "Euphorbiaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "leaves",
+      "seed",
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LA",
+      " LPC",
+      " LNC",
+      " BWD",
+      " HEIGHT",
+      " DBH",
+      " SEED MASS",
+      " SEED SIZE",
+      " SEED SHAPE",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Connarus perrottetti",
+    "Family": "Connaranaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Cordia exaltata",
+    "Family": "Boraginaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGHT",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Cordia nodosa",
+    "Family": "Boraginaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "leaves"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LDMC",
+      " LNC",
+      " LPC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Cordia panicularis",
+    "Family": "Boraginaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGHT",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Cordiera myrciifolia",
+    "Family": "Rubiaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LNC",
+      " LPC",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " FRUIT MASS"
+    ]
+  },
+  {
+    "Species": "Couepia ulei",
+    "Family": "Chrysobalanaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LDMC",
+      " LNC",
+      " LPC",
+      " DBH",
+      " HEIGHT",
+      " BWD",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " SSD",
+      " NARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Couma macrocarpa",
+    "Family": "Apocynaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "trunk",
+      "latex"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LNC",
+      " LPC",
+      " LDMC",
+      " BWD",
+      " BARK THICKNESS",
+      " HEIGHT",
+      " FRUIT SIZE",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Couratari guianensis",
+    "Family": "Lecythidaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGHT",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Couratari stellata",
+    "Family": "Lecythidaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGHT",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Couratari tauari",
+    "Family": "Lecythidaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGHT",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Cupania scrobiculata",
+    "Family": "Sapindaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGHT",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Dimorphandra parviflora",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGHT",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Diospyros guianensis",
+    "Family": "Ebenaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "leaves"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LA",
+      " SLA",
+      " LNC",
+      " LPC"
+    ]
+  },
+  {
+    "Species": "Dipteryx odorata",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "leaves",
+      "seeds"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LA",
+      " LNC",
+      " LPC",
+      " BWD",
+      " DBH",
+      " BARK THICKNESS",
+      " HEIGHT",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Drypetes variabilis",
+    "Family": "Putranjivaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LA",
+      " LNC",
+      " LPC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Duguetia flagellaris",
+    "Family": "Annonaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Duguetia surinamensis",
+    "Family": "Annonaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGH",
+      " BARK THICKNESS",
+      " SSD"
+    ],
+    "OBS": "Todo o gênero Duguetia é citado como usado para fins medicinais, mas só para algumas espécies são encontradas citações de uso."
+  },
+  {
+    "Species": "Dulacia candida",
+    "Family": "Olacaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Ecclinusa guianensis",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LA",
+      " LNC",
+      " LPC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Elizabetha bicolor",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Eperua glabiflora",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "Casca do tronco"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Erisma bicolor",
+    "Family": "Vochysiaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LA",
+      " LNC",
+      " LPC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Erythroxylum citrifolium",
+    "Family": "Erythroxylaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Erythroxylum macrophyllum",
+    "Family": "Erythroxylaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "root"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LA",
+      " LNC",
+      " LPC",
+      " SRL"
+    ]
+  },
+  {
+    "Species": "Eschweilera bracteosa",
+    "Family": "Lecythidaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Eschweilera coriacea",
+    "Family": "Lecythidaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGH",
+      " BARK THICKNESS",
+      " SSD"
+    ],
+    "OBS": "Poucos dados relacionados ao uso medicinal"
+  },
+  {
+    "Species": "Eschweilera grandiflora",
+    "Family": "Lecythidaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "bark",
+      "seed"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LNC",
+      " LPC",
+      " BARK THICKNESS",
+      " SEED MASS",
+      " SEED SIZE",
+      " SEED SHAPE",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Eschweilera micrantha",
+    "Family": "Lecythidaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Eschweilera pedicellata",
+    "Family": "Lecythidaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Eschweilera pseudodecolorans",
+    "Family": "Lecythidaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Eschweilera sagotiana",
+    "Family": "Lecythidaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "seed"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LPC",
+      " LNC",
+      " LA",
+      " SEED SIZE",
+      " SEED SHAPE",
+      " SEED MASS",
+      " BWD",
+      " DBH",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Eschweilera wachenheimii",
+    "Family": "Lecythidaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Eugenia cupulata",
+    "Family": "Myrtaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "leaves"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LA",
+      " LNC",
+      " LPC"
+    ]
+  },
+  {
+    "Species": "Eugenia florida",
+    "Family": "Myrtaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "leaves",
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LA",
+      " LNC",
+      " LPC",
+      " SLA",
+      " BWD",
+      " DBH",
+      " HEIGH",
+      " BARK THICKNESS",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " SSD"
+    ],
+    "OBS": "Óleo essencial tem triterpenos que podem atuar como anti-HIV\r\n(JUNGES, M. J. 1997. Triterpenos de Eugenia florida DC de potencial anti-hiv. Caderno de Farmácia, v. 13, n.2, p. 103-104.)"
+  },
+  {
+    "Species": "Faramea torquata",
+    "Family": "Rubiaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Fusaea longifolia",
+    "Family": "Annonaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LA",
+      " LNC",
+      " LPC",
+      " BWD",
+      " DBH",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Garcinia madruno",
+    "Family": "Clusiaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Glycydendron amazonicum",
+    "Family": "Euphorbiaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "Raíz",
+      "leaves"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LA",
+      " SLA",
+      " LNC",
+      " LPC",
+      " SRL",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Guarea kunthiana",
+    "Family": "Meliaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LA",
+      " LNC",
+      " LPC",
+      " BWD",
+      " DBH",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " SSD"
+    ],
+    "OBS": "Atividade inseticida contra Aedes aegypty (\tPANDINI, Jessica Angela. Chemical composition, antimicrobial, insecticidal and antioxidant properties of the essential oil and extracts of Guarea kunthiana A. Juss. 2014. 89 f. Dissertação (Mestrado em Conservação e Manejo de Recursos Naturais) - Universidade Estadual do Oeste do Parana, Cascavel, 2014.)"
+  },
+  {
+    "Species": "Guarea pubescens",
+    "Family": "Meliaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "root"
+    ],
+    "RelatedFunctionalTraits": [
+      "SRL",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Guatteria citriodora",
+    "Family": "Annonaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "leaves",
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LDMC",
+      " LNC",
+      " LPC",
+      " DBH",
+      "BARK THICKNESS",
+      " BWD",
+      " HEIGHT",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Guatteria discolor",
+    "Family": "Annonaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "leaves",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LDMC",
+      " LNC",
+      " LPC",
+      " BARK THICKNESS",
+      " DBH",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Guatteria megalophylla",
+    "Family": "Annonaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Guatteria punctata",
+    "Family": "Annonaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LDMC",
+      " LNC",
+      " LPC",
+      " BARK THICKNESS",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Helianthostylis sprucei",
+    "Family": "Moraceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "BWD",
+      " DBH",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Hevea guianensis",
+    "Family": "Euphorbiaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "bark",
+      "latex",
+      "seed"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LNC",
+      " LPC",
+      " BARK THICKNESS",
+      " SEED MASS",
+      " SEED SIZE",
+      " SEED SHAPE*",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Hirtella racemosa",
+    "Family": "Chrysobalanaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "leaves",
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LDMC",
+      " LNC",
+      " LPC",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Inga brachyrhachis",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Inga capitata",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Inga gracilifolia",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Inga laurina",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Inga longiflora",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Inga paraensis",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " DBH",
+      " BWD",
+      " BARK THICKNESS",
+      " HEIGHT",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Inga stipularis",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Inga thibaudiana",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "branches",
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " BWD",
+      " HEIGHT",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Inga umbellifera",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Inga umbratica",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " DBH",
+      " BWD",
+      " BARK THICKNESS",
+      " HEIGHT",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Iryanthera juruensis",
+    "Family": "Myristicaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "seed",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LDMC",
+      " LPC",
+      " LNC",
+      " SEED MASS",
+      " SEED SIZE",
+      " SEED SHAPE",
+      " DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Iryanthera laevis",
+    "Family": "Myristicaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "leaves",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "SLA",
+      " LA",
+      " LDMC",
+      " LNC",
+      " LPC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Iryanthera paraensis",
+    "Family": "Myristicaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Lacistema aggregatum",
+    "Family": "Lacistemaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LDMC",
+      " LPC",
+      " LNC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " BWD",
+      " DBH",
+      " HEIGH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Lacunaria jenmanii",
+    "Family": "Ochnaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LDMC",
+      " LPC",
+      " LNC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Laetia procera",
+    "Family": "Salicaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Lecythis confertiflora",
+    "Family": "Lecythidaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Lecythis poiteaui",
+    "Family": "Lecythidaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Lecythis retusa",
+    "Family": "Lecythidaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "seed"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " LA",
+      " LDMC",
+      " LNC",
+      " LPC",
+      " SEED MASS",
+      " SEED SIZE",
+      " SEED SHAPE",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Lecythis zabucajo",
+    "Family": "Lecythidaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark",
+      "seed"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " LA",
+      " LDMC",
+      " LNC",
+      " LPC",
+      " SEED MASS",
+      " SEED SIZE",
+      " SEED SHAPE",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Leonia cymosa",
+    "Family": "Violaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Leonia glycycarpa",
+    "Family": "Violaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LDMC",
+      " LPC",
+      " LNC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Licania apetala",
+    "Family": "Chrysobalanaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Licania bracteata",
+    "Family": "Chrysobalanaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Licania caudata",
+    "Family": "Chrysobalanaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Licania gracilipes",
+    "Family": "Chrysobalanaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Licania heteromorpha",
+    "Family": "Chrysobalanaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "leaves",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "SLA",
+      " LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " FRUIT MASS",
+      " HEIGHT",
+      " BWD",
+      " DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Licania longistyla",
+    "Family": "Chrysobalanaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LDMC",
+      " LPC",
+      " LNC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " BWD",
+      " DBH",
+      " HEIGH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Licania macrophylla",
+    "Family": "Chrysobalanaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Licania micrantha",
+    "Family": "Chrysobalanaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "fruit",
+      "seed"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " LA",
+      " LDMC",
+      " LNC",
+      " LPC",
+      " SEED MASS",
+      " FRUIT MASS",
+      " SEED SIZE",
+      " FRUIT SIZE",
+      " SEED SHAPE",
+      " FRUIT SHAPE",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Licania octandra",
+    "Family": "Chrysobalanaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Licania pallida",
+    "Family": "Chrysobalanaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Licania sothersiae",
+    "Family": "Chrysobalanaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Licaria cannella",
+    "Family": "Lauraceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "leaves"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LNC",
+      " LPC",
+      " LA",
+      " DBH",
+      " BWD",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Licaria macrophylla",
+    "Family": "Lauraceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Licaria rodriguesii",
+    "Family": "Lauraceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Lorostemon bombaciflorum",
+    "Family": "Clusiaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LNC",
+      " LPC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Mabea piriri",
+    "Family": "Euphorbiaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "latex"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Mabea speciosa",
+    "Family": "Euphorbiaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Manilkara bidentata",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "leaves",
+      "bark",
+      "latex"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LDMC",
+      " LNC",
+      " LPC",
+      " SLA",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Maquira sclerophylla",
+    "Family": "Moraceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Matayba guianensis",
+    "Family": "Sapindaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LNC",
+      " LPC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Matayba inelegans",
+    "Family": "Sapindaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Matayba purgans",
+    "Family": "Sapindaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LDMC",
+      " LPC",
+      "LNC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " BWD",
+      " DBH",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Mezilaurus itauba",
+    "Family": "Lauraceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LDMC",
+      " LPC",
+      "LNC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " BWD",
+      " DBH",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Miconia argyrophylla",
+    "Family": "Melastomataceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LNC",
+      " LPC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Miconia gratissima",
+    "Family": "Melastomataceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Miconia punctata",
+    "Family": "Melastomataceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LDMC",
+      " LPC",
+      "LNC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " BWD",
+      " DBH",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Micropholis egensis",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LNC",
+      " LPC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Micropholis guyanensis",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LDMC",
+      " LPC",
+      "LNC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " BWD",
+      " DBH",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Minquartia guianensis",
+    "Family": "Olacaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Mouriri cauliflora",
+    "Family": "Melastomataceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LNC",
+      " LPC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Mouriri huberi",
+    "Family": "Melastomataceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Myrcia citrifolia",
+    "Family": "Myrtaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "leaves",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LDMC",
+      " LNC",
+      " LPC",
+      " BARK THICKNESS",
+      " DBH",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Myrcia fallax",
+    "Family": "Myrtaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Myrciaria floribunda",
+    "Family": "Myrtaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "leaves",
+      "flowers",
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LDMC",
+      " LPC",
+      " LNC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " BWD",
+      " DBH",
+      " HEIGHT",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Naucleopsis ulei",
+    "Family": "Nyctaginaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LNC",
+      " LPC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Neea divaricata",
+    "Family": "Nyctaginaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Neea floribunda",
+    "Family": "Nyctaginaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "leaves",
+      "fruits"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LNC",
+      " LPC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Neea oppositifolia",
+    "Family": "Nyctaginaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Ocotea canaliculata",
+    "Family": "Lauraceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Ocotea cernua",
+    "Family": "Lauraceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Ocotea cinerea",
+    "Family": "Lauraceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Ocotea leucoxylon",
+    "Family": "Lauraceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Ocotea cujumary",
+    "Family": "Lauraceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "seed",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LDMC",
+      " LNC",
+      " LPC",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " FRUIT MASS",
+      " SEED MASS",
+      " SEED SHAPE",
+      " SEED SIZE",
+      " DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Ocotea nigrescens",
+    "Family": "Lauraceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Ocotea rhodophylla",
+    "Family": "Lauraceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Ocotea percurrens",
+    "Family": "Lauraceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Ocotea subterminalis",
+    "Family": "Lauraceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Onychopetalum amazonicum",
+    "Family": "Annonaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Ormosia paraensis",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Parinari excelsa",
+    "Family": "Chrysobalanaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LDMC",
+      " LPC",
+      "LNC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " BWD",
+      " DBH",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Paypayrola grandiflora",
+    "Family": "Violaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Paltogyne paniculata",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Pera glabrata",
+    "Family": "Peraceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Peritassa laevigata",
+    "Family": "Celastraceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE"
+    ]
+  },
+  {
+    "Species": "Pogonophora schomburgkiana",
+    "Family": "Peraceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Pouraqueiba guianensis",
+    "Family": "Icacinaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE"
+    ]
+  },
+  {
+    "Species": "Pourouma bicolor",
+    "Family": "Urticaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "leaves"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LNC",
+      " LPC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE"
+    ]
+  },
+  {
+    "Species": "Pourouma cuspidata",
+    "Family": "Urticaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE"
+    ]
+  },
+  {
+    "Species": "Pourouma mollis",
+    "Family": "Urticaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE"
+    ]
+  },
+  {
+    "Species": "Pourouma myrmecophila",
+    "Family": "Urticaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE"
+    ]
+  },
+  {
+    "Species": "Porouma tormentosa",
+    "Family": "Urticaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Pourouma velutina",
+    "Family": "Urticaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Pourouma villosa",
+    "Family": "Urticaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "seiva**"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Pouteria ambelaniifolia",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Pouteria bilocularis",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Pouteria caimito",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "bark",
+      "latex",
+      "root",
+      "seed",
+      "leaves"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LPC",
+      " LNC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " SEED SIZE",
+      " SEED MASS",
+      " SEED SHAPE",
+      " DBH",
+      " BARK THICKNESS",
+      " SRL",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Pouteria cladantha",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Pouteria cuspidata",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Pouteria gongrijpii",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Pouteria guianensis",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "trunk",
+      "latex"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " DBH",
+      " BARK THICKNESS",
+      " HEIGHT",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Pouteria hispida",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Pouteria laevigata",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Pouteria manaosensis",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Pouteria platyphylla",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Pouteria reticulata",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Pouteria retinervis",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Pouteria venosa",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Pradosia cochlearia",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE"
+    ]
+  },
+  {
+    "Species": "Protium altsonii",
+    "Family": "Burseraceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Protium apiculatum",
+    "Family": "Burseraceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Protium aracouchini",
+    "Family": "Burseraceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "resin"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Protium decandrum",
+    "Family": "Burseraceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "resin"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Protium divaricatum",
+    "Family": "Burseraceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Protium ferrugineum",
+    "Family": "Burseraceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Protium hebetatum",
+    "Family": "Burseraceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "resin"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Protium pallidum",
+    "Family": "Burseraceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "resin",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Protium paniculatum",
+    "Family": "Burseraceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "resin"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Protium sagotianum",
+    "Family": "Burseraceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "resin",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Protium spruceanum",
+    "Family": "Burseraceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "bark",
+      "resin",
+      "leaves"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LDMC",
+      " LNC",
+      " LPC",
+      " BARK THICKNESS",
+      " DBH",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Protium trifoliolatum",
+    "Family": "Burseraceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Pseudolmedia laevis",
+    "Family": "Moraceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "Seiva do tronco"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Pterocarpus rohrii",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Ptychopetalum olacoides",
+    "Family": "Olacaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "Raiz de plantas jovens",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BARK THICKNESS",
+      " SRL",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Qualea paraensis",
+    "Family": "Vochysiaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Quiina amazonica",
+    "Family": "Ochnaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "leaves"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LA",
+      " LNC",
+      " LPC"
+    ]
+  },
+  {
+    "Species": "Rinorea guianensis",
+    "Family": "Violaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Rinorea racemosa",
+    "Family": "Violaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Roucheria columbiana",
+    "Family": "Linaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ],
+    "OBS": "Tem como sinônimo \"Roucheria punctata\", também listada dentre as espécies do AmazonFACE"
+  },
+  {
+    "Species": "Rourea cuspidata",
+    "Family": "Connaranaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Ruptiliocarpon caracolito",
+    "Family": "Lepidobotryaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Sacoglottis amazonica",
+    "Family": "Humiriaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Sacoglottis guianensis",
+    "Family": "Humiriaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Sarcaulus brasiliensis",
+    "Family": "Sapotaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Scleronema micranthum",
+    "Family": "Malvaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "leaves",
+      "seeds"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LA",
+      " LNC",
+      " LPC",
+      " BWD",
+      " DBH",
+      " BARK THICKNESS",
+      " HEIGHT",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Senefeldera macrophylla",
+    "Family": "Euphorbiaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE"
+    ]
+  },
+  {
+    "Species": "Simarouba amara",
+    "Family": "Simaroubaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark",
+      "leaf",
+      "fruit",
+      "root"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LDMC",
+      " LPC",
+      "LNC",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " FRUIT MASS",
+      " DBH",
+      " HEIGHT",
+      " BWD",
+      " BARK THICKNESS",
+      " SRL",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Siparuna decipiens",
+    "Family": "Siparunaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Siparuna guianensis",
+    "Family": "Siparunaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "leaves",
+      "flowers",
+      "bark",
+      "raíz"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LDMC",
+      " LPC",
+      " LNC",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " FRUIT MASS",
+      " DBH",
+      " BARK THICKNESS",
+      " SRL",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Siparuna poeppigii",
+    "Family": "Siparunaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "leaves"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LA",
+      " LNC",
+      " LPC"
+    ]
+  },
+  {
+    "Species": "Sloanea fragrans",
+    "Family": "Elaeocarpaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Sloanea guianensis",
+    "Family": "Elaeocarpaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Sloanea latifolia",
+    "Family": "Elaeocarpaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Sloanea pubescens",
+    "Family": "Elaeocarpaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Sloanea schomburgkii",
+    "Family": "Elaeocarpaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Sorocea guilleminiana",
+    "Family": "Moraceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "latex",
+      "leaves"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LNC",
+      " LPC",
+      " LA",
+      " DBH",
+      " BWD",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Sorocea muriculata",
+    "Family": "Moraceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "leaves",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LDMC",
+      " LPC",
+      " LNC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " BWD",
+      " DBH",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Sterculia pruriens",
+    "Family": "Malvaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Stryphnodendron pulcherrimum",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Swartzia arborescens",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Food",
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "fruit",
+      "leaves",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LDMC",
+      " LPC",
+      " LNC",
+      " FRUIT MASS",
+      " FRUIT SIZE",
+      " FRUIT SHAPE",
+      " BWD",
+      " DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Swatzia corrugata",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Swartzia polyphylla",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark",
+      "raíz",
+      "leaves"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LDMC",
+      " LPC",
+      " LNC",
+      " SRL",
+      " DBH",
+      " BWD",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Swartzia schomburgkii",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Symphonia globulifera",
+    "Family": "Clusiaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "resin",
+      "sap",
+      "bark",
+      "leaves",
+      "fruit",
+      "seeds"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LDMC",
+      " LPC",
+      " LNC",
+      " FRUIT SIZE",
+      " FRUIT MASS",
+      " DBH",
+      " BARK THICKNESS",
+      " BWD",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Tabernaemontana flavicans",
+    "Family": "Apocynaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Tabernaemontana muricata",
+    "Family": "Apocynaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Tabernaemontana undulata",
+    "Family": "Apocynaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "latex",
+      "raíz"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD",
+      " SRL",
+      " HEIGHT"
+    ]
+  },
+  {
+    "Species": "Tachigali melanocarpa",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Tachigali myrmecophila",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Tachigali paniculata",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Tapura amazonica",
+    "Family": "Dichapetalaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE"
+    ]
+  },
+  {
+    "Species": "Tapura guianensis",
+    "Family": "Dichapetalaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Theobroma sylvestre",
+    "Family": "Malvaceae",
+    "EcosystemService": [
+      "Food"
+    ],
+    "PartsUsed": [
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE"
+    ]
+  },
+  {
+    "Species": "Thrichilia pleeana",
+    "Family": "Meliaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Trichilia rubra",
+    "Family": "Meliaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "leaves",
+      "roots"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " SLA",
+      " LDMC",
+      " LPC",
+      " LNC",
+      " SRL",
+      " DBH",
+      " BWD",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Unonopsis floribunda",
+    "Family": "Annonaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Unonopsis guatterioides",
+    "Family": "Annonaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Unonopsis stipitata",
+    "Family": "Annonaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "leaves"
+    ],
+    "RelatedFunctionalTraits": [
+      "LDMC",
+      " LNC",
+      " LPC",
+      " LA",
+      " DBH",
+      " BWD",
+      " SSD",
+      " BARK THICKNESS"
+    ]
+  },
+  {
+    "Species": "Vantanea guianensis",
+    "Family": "Humiriaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ],
+    "OBS": "Usada para exploração madeireira"
+  },
+  {
+    "Species": "Vatairea macrocarpa",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Vatairea paraensis",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ],
+    "OBS": "Usada para exploração madeireira"
+  },
+  {
+    "Species": "Virola calophylla",
+    "Family": "Myristicaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Virola multinervia",
+    "Family": "Myristicaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Vismia cauliflora",
+    "Family": "Hypericaceae",
+    "EcosystemService": [
+      "Medicinal"
+    ],
+    "PartsUsed": [],
+    "RelatedFunctionalTraits": []
+  },
+  {
+    "Species": "Vismia sandwithii",
+    "Family": "Hypericaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "latex",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Vouacapoua pallidior",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Xylopia calophylla",
+    "Family": "Annonaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Xylopia polyantha",
+    "Family": "Annonaceae",
+    "EcosystemService": [
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Zygia coccinea",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Food",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "fruit"
+    ],
+    "RelatedFunctionalTraits": [
+      "LA",
+      " LPC",
+      " LNC",
+      " LDMC",
+      " FRUIT MASS",
+      " FRUIT SHAPE",
+      " FRUIT SIZE",
+      " DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  },
+  {
+    "Species": "Zygia racemosa",
+    "Family": "Fabaceae",
+    "EcosystemService": [
+      "Medicinal",
+      "Raw Material"
+    ],
+    "PartsUsed": [
+      "trunk",
+      "bark"
+    ],
+    "RelatedFunctionalTraits": [
+      "DBH",
+      " BWD",
+      " HEIGHT",
+      " BARK THICKNESS",
+      " SSD"
+    ]
+  }
+]
